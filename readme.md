@@ -4,17 +4,8 @@
 The **Evolutionary Image Generator** is a Python-based application that utilizes **evolutionary computing techniques** to generate images. 
 
 <p align="center">
-  <video width="600" controls>
-    <source src="evolution.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+  <img src="evolution.gif" alt="Evolution Process" width="600">
 </p>
-
-It follows standard genetic procedures such as:
-- **Selection**: Choosing the fittest individuals based on an objective function.
-- **Crossover**: Combining features from parent images to create offspring.
-- **Mutation**: Randomly altering aspects of an image for diversity.
-- **Elitism**: Preserving top-performing individuals across generations.
 
 ## Technologies Used
 - **Python** - Core programming language.
