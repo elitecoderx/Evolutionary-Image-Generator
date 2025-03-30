@@ -12,7 +12,6 @@ The **Evolutionary Image Generator** is a Python-based application that utilizes
 - **PIL (Pillow)** - Image processing.
 - **NumPy** - Efficient numerical computations.
 - **Matplotlib** - Visualization of evolutionary progress.
-- **Streamlit** - Interactive UI for visualization.
 - **Pipenv** - Virtual environment and dependency management.
 
 ## Installation & Setup
@@ -43,7 +42,6 @@ Ensure **Python 3.8+** and **Pipenv** are installed.
 ## Future Enhancements
 - 🖼 **Improve Fitness Evaluation** using deep learning.
 - ⚡ **Optimize Evolutionary Operators** for faster convergence.
-- 🌐 **Deploy as a Web App** using Streamlit.
 
 ## Contributing
 Contributions are welcome! Fork the repository, make changes, and submit a PR.
